@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=002147&height=200&section=header&text=Hai%20Aku%20Fadlan&fontSize=70&fontColor=00f2ff&animation=fadeIn" width="100%" />
-  
-  <p align="center">
-    <b>Fullstack Developer</b>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002147,100:00f2ff&height=220&section=header&text=Hai%20Aku%20Fadlan&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Seorang%20Fullstack%20Developer&descAlign=50&descAlignY=75" width="100%" />
 </div>
 
 ---
