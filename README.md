@@ -10,7 +10,7 @@
 <h2>🚀 Tentang Saya</h2>
 
 <p>
-Saya <b>Fadlan</b>, seorang Fullstack Developer yang fokus pada pembuatan website modern, cepat, dan responsif.
+Gagal di awal bukanlah sebuah Akhir
 </p>
 
 ---
