@@ -32,6 +32,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=120&section=footer"/>
+</div>
 
 ---
 
