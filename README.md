@@ -1,17 +1,24 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raismuhammd-gif/raismuhammd-gif/main/header.png" width="100%" />
-
-  <h1>Hai 👋, Aku Fadlan Anwar</h1>
-  <p><b>Fullstack Developer</b></p>
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=002147&height=200&section=header&text=Hai%20Aku%20Fadlan&fontSize=70&fontColor=00f2ff&animation=fadeIn" width="100%" />
+  
+  <p align="center">
+    <b>Fullstack Developer</b>
+  </p>
 </div>
 
 ---
 
 ### 🌐 Media Sosial:
 <p align="left">
-  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
