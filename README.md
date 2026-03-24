@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hai 👋, Aku Fadlan</h1>
+<h3 align="center">Calon Fullstack Developer</h3>
 
-<!--
-**Fadlan-Anwar/Fadlan-Anwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Sosial Media
+- Instagram: https://instagram.com/
+- Facebook: https://facebook.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skill
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript)
+
+---
+
+## 📊 Statistik GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=Fadlan-Anwar&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadlan-Anwar&layout=compact&theme=tokyonight)
