@@ -1,5 +1,5 @@
 <!-- TOP DARK BAR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=120"/>
+
 
 <div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=230&section=header&text=Hai%20Aku%20Fadlan&fontSize=50&fontColor=00f2ff&animation=fadeIn&desc=Fullstack%20Developer%20🚀&descAlign=20&descAlignY=70" width="100%" />
