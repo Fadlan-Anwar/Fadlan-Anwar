@@ -7,7 +7,7 @@
 <h2>🚀 Tentang Saya</h2>
 
 <p>
-  Halo! Saya <b>Fadlan</b>, seorang Fullstack Developer yang suka membangun website dan aplikasi modern.
+  suka dengan hal baru
 </p>
 
 ---
