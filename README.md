@@ -1,36 +1,86 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002147,100:00f2ff&height=220&section=header&text=Hai%20Aku%20Fadlan&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Seorang%20Fullstack%20Developer&descAlign=50&descAlignY=75" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=230&section=header&text=Hai%20Aku%20Fadlan&fontSize=50&fontColor=00f2ff&animation=fadeIn&desc=Fullstack%20Developer%20🚀&descAlign=50&descAlignY=70" width="100%" />
 </div>
 
 ---
 
-### 🌐 Media Sosial:
-<p align="left">
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<h2 align="center">🚀 Tentang Saya</h2>
 
----
-
-### 💻 Tumpukan Teknologi:
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-### 📊 Statistik GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadlan-Anwar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadlan-Anwar&layout=compact&theme=tokyonight&hide_border=true" width="43%" />
+  Halo! Saya <b>Fadlan</b>, seorang Fullstack Developer yang suka membangun website dan aplikasi modern.
 </p>
+
+---
+
+<h2 align="center">🌐 Sosial Media</h2>
+
+<p align="center">
+  <a href="https://wa.me/628XXXXXXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=visualstudiocode"/>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fadlan-Anwar&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadlan-Anwar&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+---
+
+<h2 align="center">🔥 Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fadlan-Anwar&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=120&section=footer"/>
+</div>
